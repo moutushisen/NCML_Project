@@ -1,0 +1,16 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files to be normalized
+*.py     text
+*.c      text
+*.h      text
+*.cpp    text
+*.txt    text
+*.md     text
+*.csv    text
+
+# Binary files should be left untouched
+*.png    binary
+*.jpg    binary
+*.pdf    binary
